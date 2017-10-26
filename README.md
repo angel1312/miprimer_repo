@@ -1,2 +1,2 @@
 # Primer Demo
-Estos archivos se usuaran para crear una aplicacion WEB
+Estos archivos se usaran para crear una aplicacion WEB
