@@ -1,0 +1,21 @@
+h1{
+		background : yellow;
+		color: red;
+	}
+#aten{
+		color : green;
+	}
+#aban{
+		color : black;
+	}
+td{
+	border: 2px solid green;
+}
+.verde{
+	background : green ; 
+	color : white ; 
+}
+.rojo{
+	background : red ; 
+	color : white ; 
+}
